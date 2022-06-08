@@ -11,6 +11,8 @@ Reviewing the temperature summary statistics (Image 1) for June and December bet
 ![june_december](https://user-images.githubusercontent.com/102122063/172698279-b6f06684-9511-41fa-b798-f83e0e1aa8e7.PNG)
 
 
-**Image 1:** *Temperature summary statistics for June and December between 2010 and 2017.*
+**Image 1:** *Temperature summary statistics for Oahu, Hawaii during June and December between 2010 and 2017.*
 
 ## Summary
+
+There are many other weather factors that play a role in people’s decisions to vacation in Hawaii, specifically Oahu, including precipitation, humidity, wind and possibly the average cloud coverage. Additional queries exploring and analyzing data for these factors would provide beneficial information for W. Avy and the ideal time to open the ice cream and surf shop. Keeping in mind that Hawaii is known for its surfing and you’re opening a surf shop, wave heights are important. While they may not be observed along with the weather observations, it can be recommended that comparing the statistics of wave heights or swells during June and December could provide insight into when surfers would want to surf!
